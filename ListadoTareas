@@ -15,7 +15,9 @@
        <input type="text" name="Contraseña">
        <div>
         <button class="btn success">Login</button>
-        <button class="btn success">Ir a registro</button>     
+        <button class="btn success">
+            <a></a>
+        </button>     
        </div>
     </center>
     
